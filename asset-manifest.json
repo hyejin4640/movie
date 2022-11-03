@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hyejin4640/movie.git/static/css/main.b79f0409.css",
+    "main.js": "/hyejin4640/movie.git/static/js/main.5160b180.js",
+    "index.html": "/hyejin4640/movie.git/index.html",
+    "main.b79f0409.css.map": "/hyejin4640/movie.git/static/css/main.b79f0409.css.map",
+    "main.5160b180.js.map": "/hyejin4640/movie.git/static/js/main.5160b180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b79f0409.css",
+    "static/js/main.5160b180.js"
+  ]
+}
