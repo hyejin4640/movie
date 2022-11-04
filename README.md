@@ -11,7 +11,7 @@ package.json파일 -> scripts 하위에 deploy항목 추가 gh-pages -d {$direct
 package.json파일 -> scripts 하위에 predeploy항목 추가 npm run build
 terminal에서 npm run deploy 명령
 
-##라우터
+## 라우터
 ReactJS의 url 라우팅 기능
 *Router와 Route 컴퍼넌트 사용
 같은 url상 그룹의 주소일 경우 모든 컴퍼넌트를 렌더링한다.
